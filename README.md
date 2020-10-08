@@ -19,7 +19,7 @@ Downloading the repository
 
 Example Script
 -
-Open ``mTDRdemo.m`` to see how we estimate the parameters and the number of dimensions by AIC.
+Open ``mTDRdemo.m`` to see how we estimate the parameters and the number of dimensions by AIC. ``demoLearning.m`` is a more step-by-step view of the functions used for parameter learning when the number of dimensions have been specified.
 
 
 Simple Overview
